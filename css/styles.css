@@ -106,7 +106,7 @@ color: #8E8F99;
 
 .modal-field{
     position: relative;
-    margin-bottom: 8px;
+    margin-bottom: 24px;
 }
 .input-wrap{
     position: relative;
@@ -146,14 +146,16 @@ color: #8E8F99;
 }
 .modal-input-text{
 resize: none;
-width: 360px;
-height: 138px;
+width: 100%;
+height: 120px;
 border: 1px solid rgba(46, 47, 66, 0.4);
 border-radius: 4px;
 font-weight: 400;
 font-size: 12px;
-line-height: 1.1;
+line-height: 1.17;
 letter-spacing: 0.04em;
+background-color: transparent;
+color: rgba(46, 47, 66, 0.4);
 outline: transparent;
 padding: 8px 16px;
 margin-top: 4px;
