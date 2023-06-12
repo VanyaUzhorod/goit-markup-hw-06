@@ -155,8 +155,11 @@ margin-top: 4px;
 margin-bottom: 16px;
 transition:border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+.modal-field-check-a{
+    margin-bottom: 8px;
+}
 
-.modalfield-check{
+.modal-field-check{
     margin-bottom: 24px;
 
 }
@@ -194,7 +197,7 @@ color: var(--color-a-section-five);
 color: var(--color-a-section-five);
 font-weight: 400;
 font-size: 12px;
-line-height: 1,17;
+line-height: 1.17;
 letter-spacing: 0.04em;
 }
 
